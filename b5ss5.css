@@ -1,0 +1,14 @@
+.container {
+    background: white;
+    width: 737px;
+}
+
+.container .heading {
+    color: #0056b3;
+}
+
+.container .code-box {
+    background: #fff8dc;
+    padding: 8px;
+    border-left: 10px solid #ffc107;
+}
